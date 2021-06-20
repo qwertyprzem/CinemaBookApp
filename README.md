@@ -1,1 +1,1 @@
-Booking Service System for Cinemas
+Booking Service System for cinemas
